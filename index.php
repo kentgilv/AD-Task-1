@@ -22,17 +22,20 @@
 <body>
     <header>
         <nav>
+            <!-- Brand Logo and Name -->
             <div class="nav-brand">
                 <a href="index.php" title="NutriHealth Logo"><img class="brand-logo"
                         src="./assets/img/nutrihealth-logo.png" height="40px" alt="NutriHealth Logo"></a>
                 <a class="brand-name" href="index.php" title="Brand Name">NutriHealth</a>
             </div>
 
+            <!-- Toggle Menu Button -->
             <div class="toggle-menu">
                 <button id="toggleMenuBtn" class="toggle-menu-btn" onclick="toggleMenu()" title="Show Menu"><span
                         id="toggleIcon" class="material-icons"> menu </span></button>
             </div>
 
+            <!-- Nav Links -->
             <div>
                 <ul id="navLinks" class="nav-links">
                     <li><a class="active-link" href="index.php" title="View Homepage">Home</a></li>
@@ -44,7 +47,9 @@
             </div>
         </nav>
 
+        <!-- Hero Section -->
         <section class="hero-section">
+            <!-- Hero Text -->
             <div class="hero-text">
                 <h1>Empower Your Health and Fitness</h1>
                 <p>Start your journey today with expert tips on fitness, nutrition, and mindfulness.</p>
@@ -52,6 +57,7 @@
                     Started</a>
             </div>
 
+            <!-- Hero Image -->
             <div class="hero-image">
                 <img src="./assets/img/hero-image.png" alt="Pasta in a Bowl">
             </div>
