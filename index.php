@@ -15,6 +15,8 @@
 
     <!-- Google Font Icons Link -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
 <body>
