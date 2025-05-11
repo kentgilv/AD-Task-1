@@ -27,10 +27,12 @@
                         src="./assets/img/nutrihealth-logo.png" height="40px" alt="NutriHealth Logo"></a>
                 <a class="brand-name" href="index.php" title="Brand Name">NutriHealth</a>
             </div>
+
             <div class="toggle-menu">
                 <button id="toggleMenuBtn" class="toggle-menu-btn" onclick="toggleMenu()" title="Show Menu"><span
                         id="toggleIcon" class="material-icons"> menu </span></button>
             </div>
+
             <div>
                 <ul id="navLinks" class="nav-links">
                     <li><a class="active-link" href="index.php" title="View Homepage">Home</a></li>
@@ -41,6 +43,7 @@
                 </ul>
             </div>
         </nav>
+
         <section class="hero-section">
             <div class="hero-text">
                 <h1>Empower Your Health and Fitness</h1>
@@ -48,11 +51,13 @@
                 <a id="getStartedBtn" href="./pages/services-page/index.php" title="Click Here to Get Started">Get
                     Started</a>
             </div>
+
             <div class="hero-image">
                 <img src="./assets/img/hero-image.png" alt="Pasta in a Bowl">
             </div>
         </section>
     </header>
+
     <footer>
         <p>&copy; <?php echo date(format: "Y"); ?> NutriHealth. All rights reserved</p>
     </footer>
