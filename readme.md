@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  NutriHealth is a simple 2-page Health-themed website using HTML, CSS, JavaScript and PHP. It consist of a Landing Page and a Demonstration Page (Services Page) demonstrating the Fundamentals of PRogramming which includes Variable Declaration, Conditional Statements, and Looping Statements.
+  NutriHealth is a simple 2-page Health-themed website using HTML, CSS, JavaScript and PHP. It consist of a Landing Page and a Demonstration Page (Services Page) demonstrating the Fundamentals of Programming which includes Variable Declaration, Conditional Statements, and Looping Statements.
 </div>
 
 <br />
