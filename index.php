@@ -41,6 +41,16 @@
                 </ul>
             </div>
         </nav>
+        <section>
+            <div>
+                <h1></h1>
+                <p></p>
+                <a href=""></a>
+            </div>
+            <div>
+                <img src="" alt="">
+            </div>
+        </section>
     </header>
 
     <script src="./assets/js/script.js"></script>
