@@ -45,10 +45,11 @@
             <div class="hero-text">
                 <h1>Empower Your Health and Fitness</h1>
                 <p>Start your journey today with expert tips on fitness, nutrition, and mindfulness.</p>
-                <a id="getStartedBtn" href="./pages/services-page/index.php" title="Click Here to Get Started">Get Started</a>
+                <a id="getStartedBtn" href="./pages/services-page/index.php" title="Click Here to Get Started">Get
+                    Started</a>
             </div>
-            <div>
-                <img src="" alt="">
+            <div class="hero-image">
+                <img src="./assets/img/hero-iamge.png" alt="Pasta n a Bowl">
             </div>
         </section>
     </header>
