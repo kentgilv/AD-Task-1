@@ -40,3 +40,34 @@ nav a {
 .brand-name {
     font-size: 1.5rem;
 }
+
+.toggle-menu {
+    display: none;
+    margin-left: auto;
+}
+
+.toggle-menu-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.material-icons {
+    color:white;
+    border-radius: 5px;
+    padding: 0.25rem;
+    margin-right: 0.25;
+    transition: all 0.3s;
+}
+
+.material-icons:hover {
+    background-color: white;
+    color: yellowgreen;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-right: 0;
+}
+
+.material-icons:active {
+    transform: scale(0.75);
+}
