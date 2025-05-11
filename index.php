@@ -12,8 +12,8 @@
                 <a href="index.php" title="NutriHealth Logo"><img class="brand-logo" src="./assets/img/nutrihealth-logo.png" height="40px" alt="NutriHealth Logo"></a>
                 <a class="brand-name" href="index.php" title="Brand Name">NutriHealth</a>
             </div>
-            <div>
-                <button></button>
+            <div class="toggle-menu">
+                <button id="toggleMenuBtn" class="toggle-menu-btn" onclick="toggleMenu()" title="Show Menu"><span id="toggleIcon" class="material-icons"> menu </span></button>
             </div>
             <div>
                 <ul>
