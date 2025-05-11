@@ -41,11 +41,11 @@
                 </ul>
             </div>
         </nav>
-        <section>
-            <div>
-                <h1></h1>
-                <p></p>
-                <a href=""></a>
+        <section class="hero-section">
+            <div class="hero-text">
+                <h1>Empower Your Health and Fitness</h1>
+                <p>Start your journey today with expert tips on fitness, nutrition, and mindfulness.</p>
+                <a id="getStartedBtn" href="./pages/services-page/index.php" title="Click Here to Get Started">Get Started</a>
             </div>
             <div>
                 <img src="" alt="">
