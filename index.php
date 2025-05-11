@@ -53,6 +53,9 @@
             </div>
         </section>
     </header>
+    <footer>
+        <p>&copy; <?php echo date(format: "Y"); ?> NutriHealth. All rights reserved</p>
+    </footer>
 
     <script src="./assets/js/script.js"></script>
 </body>
