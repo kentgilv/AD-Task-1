@@ -30,3 +30,13 @@ nav a {
     text-shadow: 2px 2px 4px rgba(0,0,0,.5);
     text-decoration: none;
 }
+
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.brand-name {
+    font-size: 1.5rem;
+}
