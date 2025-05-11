@@ -71,3 +71,33 @@ nav a {
 .material-icons:active {
     transform: scale(0.75);
 }
+
+.nav-links {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.nav-links li {
+    list-style: none;
+    height: 3rem;
+    margin-top: 0.5rem;
+}
+
+.nav-links a {
+    display: block;
+    height: 100%;
+    padding: 0.5rem 1rem 1rem 1rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    transition: all 0.5s, padding 0s;
+}
+
+.nav-links a:hover {
+    background-color: white;
+    color: yellowgreen;
+    text-shadow: none;
+}
+
+.active-link {
+    border-bottom: 3px solid white;
+}
