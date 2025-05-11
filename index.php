@@ -49,7 +49,7 @@
                     Started</a>
             </div>
             <div class="hero-image">
-                <img src="./assets/img/hero-iamge.png" alt="Pasta n a Bowl">
+                <img src="./assets/img/hero-image.png" alt="Pasta in a Bowl">
             </div>
         </section>
     </header>

@@ -175,3 +175,75 @@ nav li:has(#signUpBtn) {
     color: white;
   }
 }
+
+/* Hero Section */
+
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 5.75rem;
+  gap: 5.75rem;
+}
+
+.hero-text {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  flex: 1;
+}
+
+.hero-text h1 {
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero-text p {
+  font-family: "Roboto";
+  font-size: 1.2rem;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+#getStartedBtn {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-family: "Roboto";
+  font-weight: bold;
+  background-color: yellowgreen;
+  border: 2px solid yellowgreen;
+  border-radius: 2rem;
+  width: 10rem;
+  padding: 0.25rem 1.5rem;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  transition: all 0.3s, margin-bottom 0s, margin-top 0s;
+}
+
+#getStartedBtn:hover {
+  transform: scale(1.1);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.75);
+}
+
+#getStartedBtn:active {
+  transform: scale(0.9);
+}
+
+.hero-image {
+  min-width: 300px;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-image img {
+  width: 100%;
+  max-width: 450px;
+}
+
+@media (max-width: 900px) {
+  .hero-section {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+}
