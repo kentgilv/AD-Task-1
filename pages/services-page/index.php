@@ -9,8 +9,8 @@
     <header>
         <nav>
             <div>
-                <a href=""><img src="" alt=""></a>
-                <a href=""></a>
+                <a href="../../index.php" title="NutriHealth Logo"><img src="../../assets/img/nutrihealth-logo.png" height="40px" alt="NutriHealth Logo"></a>
+                <a href="../../index.php" title="Brand Name">NutriHealth</a>
             </div>
             <div>
                 <button>
@@ -19,11 +19,11 @@
             </div>
             <div>
                 <ul>
-                    <li><a href=""></a></li>
-                    <li><a href=""></a></li>
-                    <li><a href=""></a></li>
-                    <li><a href=""></a></li>
-                    <li><a href=""></a></li>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Services</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Contact</a></li>
+                    <li><a href="">Sign Up</a></li>
                 </ul>
             </div>
         </nav>
