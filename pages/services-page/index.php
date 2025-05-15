@@ -12,6 +12,9 @@
     href="https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
     rel="stylesheet" />
 
+    <!-- Google Font Icons Link -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
