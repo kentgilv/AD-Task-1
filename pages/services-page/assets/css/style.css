@@ -44,5 +44,18 @@ nav a {
     font-size: 1.5rem;
 }
 
+.toggle-menu-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
 
+.material-icons {
+    color: white;
+
+}
+
+.material-icons:hover {
+    color: yellowgreen;
+}
 

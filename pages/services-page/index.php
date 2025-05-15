@@ -25,8 +25,8 @@
                 <a class="brand-name" href="../../index.php" title="Brand Name">NutriHealth</a>
             </div>
             <div class="toggle-menu">
-                <button>
-
+                <button id="toggleMenuBtn" class="toggle-menu-btn" onclick="toggleMenu()" title="Show Menu">
+                    <span id="toggleIcon" class="material-icons"> menu </span>
                 </button>
             </div>
             <div>
