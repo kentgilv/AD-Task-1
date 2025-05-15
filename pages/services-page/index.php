@@ -20,11 +20,11 @@
 <body>
     <header>
         <nav>
-            <div>
-                <a href="../../index.php" title="NutriHealth Logo"><img src="../../assets/img/nutrihealth-logo.png" height="40px" alt="NutriHealth Logo"></a>
-                <a href="../../index.php" title="Brand Name">NutriHealth</a>
+            <div class="nav-brand">
+                <a href="../../index.php" title="NutriHealth Logo"><img class="brand-logo" src="../../assets/img/nutrihealth-logo.png" height="40px" alt="NutriHealth Logo"></a>
+                <a class="brand-name" href="../../index.php" title="Brand Name">NutriHealth</a>
             </div>
-            <div>
+            <div class="toggle-menu">
                 <button>
 
                 </button>
