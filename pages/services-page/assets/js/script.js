@@ -1,5 +1,5 @@
 function toggleMenu() {
-      const navbarLinks = document.getElementById("navbarLinks");
+      const navbarLinks = document.getElementById("navLinks");
       const toggleMenuBtn = document.getElementById("toggleMenuBtn");
       const toggleIcon = document.getElementById("toggleIcon");
 

@@ -24,11 +24,13 @@
                 <a href="../../index.php" title="NutriHealth Logo"><img class="brand-logo" src="../../assets/img/nutrihealth-logo.png" height="40px" alt="NutriHealth Logo"></a>
                 <a class="brand-name" href="../../index.php" title="Brand Name">NutriHealth</a>
             </div>
+
+            <!-- Toggle Menu Button -->
             <div class="toggle-menu">
-                <button id="toggleMenuBtn" class="toggle-menu-btn" onclick="toggleMenu()" title="Show Menu">
-                    <span id="toggleIcon" class="material-icons"> menu </span>
-                </button>
+                <button id="toggleMenuBtn" class="toggle-menu-btn" onclick="toggleMenu()" title="Show Menu"><span
+                        id="toggleIcon" class="material-icons"> menu </span></button>
             </div>
+
             <!-- Nav Links -->
             <div>
                 <ul id="navLinks" class="nav-links">
