@@ -29,13 +29,15 @@
                     <span id="toggleIcon" class="material-icons"> menu </span>
                 </button>
             </div>
+            <!-- Nav Links -->
             <div>
-                <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Services</a></li>
-                    <li><a href="">About</a></li>
-                    <li><a href="">Contact</a></li>
-                    <li><a href="">Sign Up</a></li>
+                <ul id="navLinks" class="nav-links">
+                    <li><a href="index.php" title="View Homepage">Home</a></li>
+                    <li><a class="active-link"  href="./pages/services-page/index.php
+                    " title="View Services">Services</a></li>
+                    <li><a href="" title="View About Information">About</a></li>
+                    <li><a href="" title="View Contact Information">Contact</a></li>
+                    <li><a id="signUpBtn" href="" title="Create New Account">Sign Up</a></li>
                 </ul>
             </div>
         </nav>
