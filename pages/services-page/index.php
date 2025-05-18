@@ -42,5 +42,6 @@
             </div>
         </nav>
     </header>
+    <script src="./assets/js/script.js"></script>
 </body>
 </html>
