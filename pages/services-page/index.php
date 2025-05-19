@@ -38,7 +38,7 @@
             <div>
                 <ul id="navLinks" class="nav-links">
                     <li><a href="../../index.php" title="View Homepage">Home</a></li>
-                    <li><a class="active-link" href="./pages/services-page/index.php
+                    <li><a class="active-link" href="index.php
                     " title="View Services">Services</a></li>
                     <li><a href="" title="View About Information">About</a></li>
                     <li><a href="" title="View Contact Information">Contact</a></li>
